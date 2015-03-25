@@ -15,8 +15,6 @@ gulp.task('default', function() {
     }
   });
 
-
-  
   var config = {
     files: ['app/css/*.styl'],
     server: 'app/',
